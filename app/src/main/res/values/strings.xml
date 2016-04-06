@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="Appstring">My Nanodegree Apps!</string>
+    <string name="button">Spotify Streamer</string>
+    <string name="button2">Scores App</string>
+    <string name="button3">Library App</string>
+    <string name="button4">Build it Bigger</string>
+    <string name="button5">XYZ Reader</string>
+    <string name="button6">Capstone:MY OWN APP</string>
+    <color name="lightblue">#E3F2FD</color>
+    <color name="orange">#FF7043</color>
+    <color name="maroon">#D50000</color>
+</resources>
